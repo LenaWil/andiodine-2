@@ -22,7 +22,7 @@ bash
 Then find the APK files in folder `build/outputs/apk/`
 
 # Authors and License
-Android Iodine Copyright (c) 2016 Yves Fischer <yvesf+andiodine@xapek.org> and contributors.  
+Android Iodine Copyright (c) 2016-2018 Yves Fischer <yvesf+andiodine@xapek.org> and contributors.  
 Same license as iodine.
 
 Iodine Copyright (c) 2006-2009 Bjorn Andersson <flex@kryo.se>, Erik Ekman <yarrick@kryo.se>  
